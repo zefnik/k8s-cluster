@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/zefnik/k8scluster.git
+    repoURL: https://github.com/zefnik/k8s-cluster.git
     targetRevision: HEAD
     path: ./
   destination:
