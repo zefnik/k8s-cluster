@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: zefirnikolov/helloworld-web:latest
+        image: zefirnikolov/helloworld-web:2
         resources:
           requests:
             memory: 20Mi
